@@ -54,5 +54,5 @@ print(rsp)
 
 The rest usage are similar to the official SDK. You can see [the official repo example](https://github.com/qcloudsms/qcloudsms/blob/master/demo/python/main.py) for help.
 
-**Caution:** This example has a slight different in importing the SDK with official document and the directory structure is not the same. 
+**Caution:** This example is slightly different from official document while importing the SDK and the directory structure is not the same. 
 You should notice these problems.
